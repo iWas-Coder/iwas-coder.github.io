@@ -1,2 +1,2 @@
-# iwas-coder.github.com
+# iwas-coder.github.io
 Main website
